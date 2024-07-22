@@ -1,0 +1,171 @@
+@charset "UTF-8";
+body{
+    background-color: gainsboro;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+    border-radius: 10px black;
+    
+}
+header{
+    background-color: darkgreen;
+    padding: 1px;
+    margin: 1px;
+    width:auto;
+}
+a{
+    color: white;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    margin-right: 30px;
+}
+nav>a:hover{
+    text-decoration: underline;
+    color: darkmagenta;
+}
+#h12{
+    color: darkgreen;
+    text-align: left;
+    margin-left: 10px;
+}
+main{
+    margin: auto;
+    width: 1000px;
+    background-color: white;
+    height: 2345px;
+    box-shadow: 10px 10px 10px black; 
+    
+}
+#p1{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+    margin-right: 10px;
+}
+#h21{
+    font-size: small;
+    
+}
+#h22{
+    color: darkgreen;
+    text-align: left;
+    margin-left: 10px;
+}
+#p2{
+    text-indent: 30px;
+    font-size: large;
+    margin-right: 10px;
+}
+#dandroids{
+   display: flex;
+   justify-content: center;
+}
+#irina-blok{
+    display: flex;
+   justify-content: center;  
+}
+
+#p3{
+ text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+margin-right: 10px;
+}
+#p4{
+ text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+margin-right: 10px;
+}
+#p5{
+ text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+margin-right: 10px;
+}
+#p6{
+ text-align: justify;
+    text-indent: 30px;
+    font-size: large;   
+    margin-right: 10px; 
+}
+#h23{
+    color: darkgreen;
+    text-align: left; 
+    margin-left: 10px;  
+}
+#bugdroid{
+    display: flex;
+    justify-content: center;
+}
+#h13{
+    color:white;
+    text-align: left;
+    font-size: larger;
+    background-color: darkgreen;
+    border-radius: 10px 10px 0px 0px;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+}
+#p7{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+    margin-right: 10px;    
+}
+#extra{
+    width: 900px;
+    height: 430px;
+    background-color:aquamarine;
+    border-radius: 10px 10px 0px opx;
+
+}
+#lisd{
+justify-content: right;
+}
+.divs{
+    display: inline-block;
+    margin-right: 100px;
+}
+#p8{
+ text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+    margin-right: 10px;
+}
+#p9{
+ text-align: justify;
+    text-indent: 30px;
+    font-size: large;
+    margin-right: 10px;    
+}
+#p10{
+    text-align:center;
+    background-color: darkgreen;
+    color: white;
+    
+}
+nav>a:hover{
+    background-color: whitesmoke;
+}
+video{
+    background-color: darkgreen;
+    position: relative;
+}
+div > ul{
+    list-style-type: '\2714';
+    text-decoration: underline;
+}
+#pf{
+    text-indent: 50px;
+    font-size: larger;
+}
